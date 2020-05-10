@@ -36,11 +36,12 @@ The model architecture in this project is a Q-network model with three hidden la
 
 The DQN model solved the problem in 1791 episodes, and scored above 13.01 in 100 episodes. Following figure shows the average score plot.
 
-**Plot of Rewards**
+_**Plot of Rewards**_
 
 ![reward_plot](media/15891326885742/reward_plot.png)
 
-***Agent in training***
+_**Agent in training**_
+
 ![agent_in_training](media/15891326885742/agent_in_training.gif)
 
 **Ideas for Future Work**
